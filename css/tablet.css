@@ -1,0 +1,30 @@
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.bitcoin-img-container h2 {
+    font-size: 3.2rem;
+}
+.main-product-detail .product-container--slider{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider {
+    justify-content: center;
+    overflow-x: hidden;
+    gap: 5%;
+}
+.main-currency-table .currency-table-title,
+.main-currency-table .comision-table-title {
+    margin-left: 0;
+    text-align: center;
+}
