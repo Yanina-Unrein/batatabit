@@ -6,3 +6,7 @@ Proyecto Final del curso de Responsive Design de Platzi
 
 - HTML
 - CSS
+
+## Deploy 🚀
+
+https://yanina-unrein.github.io/batatabit/
